@@ -1,2 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
+ZCZC W0 15 L00 General Log
+ZCZC W0 25 L01 SCELE Related
+ZCZC W0 120 L02 Zoom Related
+ZCZC W0 10 L03 Github Related
+ZCZC W0 15 L04 Github Pages Related
+ZCZC W0 30 L06 Reading OSC10
+ZCZC W0 30 L99 Trial & Error Github Pages for other repo
