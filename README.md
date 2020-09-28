@@ -4,6 +4,6 @@
 
 ---
 ## Top 10 Lists
-[Week 0](os202/W00)
+[Week 0](/os202/W00)
 
-[Week 1](os202/W01)
+[Week 1](/os202/W01)
