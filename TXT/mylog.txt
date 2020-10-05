@@ -7,6 +7,7 @@ ZCZC W00 10 L03 Github Related
 ZCZC W00 15 L04 Github Pages Related
 ZCZC W00 30 L06 Reading OSC10
 ZCZC W00 30 L99 Trial & Error Github Pages for other repo
+
 ZCZC W01 20 L00 General Log
 ZCZC W01 15 L01 SCELE Related
 ZCZC W01 120 L02 Zoom Related
@@ -19,3 +20,13 @@ ZCZC W01 45 L10 Assignment
 ZCZC W01 30 L26 Netflix Enola Holmes
 ZCZC W01 40 L21 Preparing VBox
 ZCZC W01 20 L99 Spotify
+
+ZCZC WO2 20 L00 Gen. Log
+ZCZC W02 100 L02 ZOOM Related
+ZCZC W02 15 L01 SCELE Related
+ZCZC W02 20 L15 Assg.5: Three Favourite Github Pages
+ZCZC W02 80 L10 All Assignment
+ZCZC W02 15 L05 GSGS VM VBox on CMD
+ZCZC W02 30 L22 Youtube: Puppet University
+ZCZC W02 15 L09 Klepoatra, Co-Pas on VM VBox
+ZCZC W02 30 L03 Set up and make W02 10 List
