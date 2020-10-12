@@ -30,3 +30,14 @@ ZCZC W02 15 L05 GSGS VM VBox on CMD
 ZCZC W02 30 L22 Youtube: Puppet University
 ZCZC W02 15 L09 Klepoatra, Co-Pas on VM VBox
 ZCZC W02 30 L03 Set up and make W02 10 List
+
+ZCZC W03 15 L00 General Log
+ZCZC W03 100 L02 Zoom
+ZCZC W03 10 L01 SCeLE
+ZCZC W03 15 L05 "How to run Debian on CMD" and still not understand
+ZCZC W03 30 L06 OSC10 and references for 10 lists
+ZCZC W03 15 L07 Demo
+ZCZC W03 20 L09 Asking Asdos
+ZCZC W03 100 L10 All Assignment
+ZCZC W03 5 L21 DEBS part 2
+ZCZC W03 10 L14 Top 3
