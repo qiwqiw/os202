@@ -7,7 +7,7 @@ ZCZC W00 10 L03 Github Related
 ZCZC W00 15 L04 Github Pages Related
 ZCZC W00 30 L06 Reading OSC10
 ZCZC W00 30 L99 Trial & Error Github Pages for other repo
-
+#
 ZCZC W01 20 L00 General Log
 ZCZC W01 15 L01 SCELE Related
 ZCZC W01 120 L02 Zoom Related
@@ -20,7 +20,7 @@ ZCZC W01 45 L10 Assignment
 ZCZC W01 30 L26 Netflix Enola Holmes
 ZCZC W01 40 L21 Preparing VBox
 ZCZC W01 20 L99 Spotify
-
+#
 ZCZC WO2 20 L00 Gen. Log
 ZCZC W02 100 L02 ZOOM Related
 ZCZC W02 15 L01 SCELE Related
@@ -30,7 +30,7 @@ ZCZC W02 15 L05 GSGS VM VBox on CMD
 ZCZC W02 30 L22 Youtube: Puppet University
 ZCZC W02 15 L09 Klepoatra, Co-Pas on VM VBox
 ZCZC W02 30 L03 Set up and make W02 10 List
-
+#
 ZCZC W03 15 L00 General Log
 ZCZC W03 100 L02 Zoom
 ZCZC W03 10 L01 SCeLE
@@ -41,7 +41,7 @@ ZCZC W03 20 L09 Asking Asdos
 ZCZC W03 100 L10 All Assignment
 ZCZC W03 5 L21 DEBS part 2
 ZCZC W03 10 L14 Top 3
-
+#
 ZCZC W04 20 L00 General Log
 ZCZC W04 80 L02 Zoom
 ZCZC W04 10 L01 SCeLE
@@ -51,3 +51,11 @@ ZCZC W04 20 L09 Asking Asdos
 ZCZC W04 15 L06 OSC10
 ZCZC W04 75 L05 GSGS Top 10
 ZCZC W04 30 L26 Netfix
+#
+ZCZC W05 20 L00 General Log
+ZCZC W05 60 L02 Zoom
+ZCZC W05 135 L10 All Assignment
+ZCZC W05 25 L14 Top 3
+ZCZC W05 60 L05 GSGS
+ZCZC W05 20 L06 Reading Resources and for Top 10
+ZCZC W05 80 L26 Cities: Skyline
