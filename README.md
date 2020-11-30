@@ -27,9 +27,10 @@ Look at [My Log](https://qiwqiw.github.io/os202/TXT/mylog.txt)
 
 [Week 7](/os202/W07)
 
-### Coming Soon
-[Week 8](/os202/#)
+[Week 8](/os202/W08)
 
+
+### Coming Soon
 [Week 9](/os202/#)
 
 [Week 10](/os202/#)
