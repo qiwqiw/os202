@@ -74,3 +74,11 @@ ZCZC W07 20 L14 Top 3 List
 ZCZC W07 60 L10 General Assignment
 ZCZC W07 80 L05 GSGS Top 10
 ZCZC W07 15 L09 Asdos
+#
+ZCZC W08 80 L02 Zoom
+ZCZC W08 15 L00 General Log
+ZCZC W08 20 L14 Top 3
+ZCZC W08 100 L05 GSGS Top 10 & Assignment
+ZCZC W08 20 L09 Asdos
+ZCZC W08 150 L10 General Assignment
+#
